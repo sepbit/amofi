@@ -1,0 +1,8 @@
+Package: web4linux
+Version: 4.1.2
+Section: internet
+Priority: optional
+Architecture: amd64
+Installed-Size:
+Maintainer: Vitor Aloisio
+Description: Web 4 Linux 0.0.1
