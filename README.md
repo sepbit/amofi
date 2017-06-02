@@ -1,4 +1,4 @@
-# Web4Linux
+# Web 4 Linux
 App mode for Firefox on Linux
 
 Tutorial
