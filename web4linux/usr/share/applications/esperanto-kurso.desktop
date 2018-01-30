@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Web 4 Linux
-Comment=Web 4 Linux 0.0.1
-Exec=/opt/web4linux/web4linux.sh
-Icon=/opt/web4linux/desktop.png
-Type=Application
-Categories=Network;WebBrowser;

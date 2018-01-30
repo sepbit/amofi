@@ -1,0 +1,11 @@
+Section: internet
+Priority: optional
+Version: 0.0.2
+Maintainer: Vitor Aloisio <vitor.guia@vitortec.com>
+Homepage: http://vitortec.com
+Package: Wanlin
+Installed-Size: 52
+Architecture: amd64
+Description:Wanlin - Web application as native Linux
+Copyright: 2011-2018 Vitortec.com <contato@vitortec.com>
+License: GPL-3
