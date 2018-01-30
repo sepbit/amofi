@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Wanlin
+Comment=Wanlin 0.0.2
+Type=Application
+Exec=/opt/wanlin/wanlin.sh
+Icon=/opt/wanli/desktop.png
+Categories=Network;WebBrowser;
