@@ -15,7 +15,7 @@ This is the directory structure.
 
 ```
 docs/
-example/
+examples/
 wanlin.sh
 ```
 
