@@ -1,7 +1,7 @@
 Section: internet
 Priority: optional
-Version: 0.0.2
-Maintainer: Vitor Aloisio <vitor.guia@vitortec.com>
+Version: 1.0.0
+Maintainer: Vitor Guia <vitor.guia@vitortec.com>
 Homepage: http://vitortec.com
 Package: Wanlin
 Installed-Size: 52
