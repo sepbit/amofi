@@ -6,7 +6,7 @@
 #Bash Version 4.4.12(1)-release
 #
 #package   Vitorteccom\Wanlin
-#author    Vitor Aloisio <vitor.guia@vitortec.com>
+#author    Vitor Guia <vitor.guia@vitortec.com>
 #copyright 2011-2018 Vitortec.com
 #license   https://www.gnu.org/licenses/gpl-3.0.en.html GPLv3
 #version   GIT: <git_id>
