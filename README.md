@@ -6,7 +6,7 @@ Web Application as Native LINux
 This script starts a new custom and uncharacteristic instance for the Mozilla [Firefox](https://www.mozilla.org/en-US/firefox/new/) browser.
 
 Gnome screenshot.
-[![Software License](screenshot.png)](#)
+[![Gnome screenshot](docs/images/screenshot.png)](#)
 
 Recommended for those looking for an alternative to the [discontinued](https://blog.chromium.org/2016/08/from-chrome-apps-to-web.html) Google Chrome / [Chromium](https://www.chromium.org/getting-involved/download-chromium) App mode, but consider [Atom Electron](https://electronjs.org) or [NW.js](https://nwjs.io) too much for their projects and look for a minor GNU / Linux solution.
 
