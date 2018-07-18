@@ -1,5 +1,5 @@
 # Amofi
-App mode for Firefox
+App MOde for FIrefox
 
 [![Software License](https://img.shields.io/github/license/vitorteccom/amofi.svg)](LICENSE.md)
 
