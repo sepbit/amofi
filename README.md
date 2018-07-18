@@ -5,14 +5,14 @@ App mode for Firefox
 
 This script starts a new custom and uncharacteristic instance for the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) browser.
 
-## Screenshot
-[![Screenshot](docs/screenshot.jpg)](#)
-
 ## Usage
 
 ``` bash
 ./amofi.sh https://platform-status.mozilla.org/
 ```
+
+## Screenshot
+[![Screenshot](docs/screenshot.jpg)](#)
 
 ## Contributing
 
