@@ -7,6 +7,8 @@ This script starts a new custom and uncharacteristic instance for the [Mozilla F
 
 ## Usage
 
+Assign execute permission to file ``amofi.sh``
+
 ``` bash
 ./amofi.sh https://platform-status.mozilla.org/
 ```
