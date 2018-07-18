@@ -3,7 +3,7 @@ App mode for Firefox
 
 [![Software License](https://img.shields.io/github/license/vitorteccom/amofi.svg)](LICENSE.md)
 
-This script starts a new custom and uncharacteristic instance for the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) browser.
+This script starts a new custom and uncharacteristic instance for the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) browser.
 
 ## Usage
 
