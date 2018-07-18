@@ -2,12 +2,9 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests.
-
-
 ## Pull Requests
 
-- **Add tests!** - Your patch won't be accepted if it doesn't have tests.
+- **Add comments!** - Your patch won't be accepted if it doesn't have comments.
 
 - **Document any change in behaviour** - Make sure the `README.md` and any other relevant documentation are kept up-to-date.
 
