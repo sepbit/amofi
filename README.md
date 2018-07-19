@@ -31,7 +31,7 @@ chmod +x ./src/amofi.sh
 
 Screenshot in [LXQt](https://lxqt.org/) desktop.
 
-[![Screenshot](docs/screenshot.jpg)](#)
+[![Screenshot](docs/images/screenshot.jpg)](#)
 
 ## Contributing
 
