@@ -40,7 +40,6 @@ fi
 #
 if [ -d '/tmp/amofi/' ];
 then
-
     #
     # Execute custom configuration
     #
@@ -52,7 +51,6 @@ fi
 #
 if [ ! -d '/tmp/amofi/' ];
 then
-
     #
     # Create directories
     #
@@ -78,4 +76,3 @@ then
     firefox -profile /tmp/amofi/ -no-remote -new-instance $1 \
     -width 800 -height 600
 fi
-
