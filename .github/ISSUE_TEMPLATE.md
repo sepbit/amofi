@@ -18,7 +18,7 @@ Not obligatory, but suggest an idea for implementing addition or change.
 
 Include as many relevant details about the environment you experienced the bug in and how to reproduce it.
 
-* Version used (e.g. GNU bash 4.4):
+* Version used (e.g. Firefox ESR 52, Firefox ESR 60):
 * Operating system and version (e.g. Debian 9, Ubuntu 18.04 LTS):
 * Link to your project:
 * ...
