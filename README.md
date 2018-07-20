@@ -7,7 +7,7 @@ This script starts a new custom and uncharacteristic instance for the [Mozilla F
 
 ## Install
 
-To install reuse, you need to have the following pieces of software on your computer:
+To install you need to have the following pieces of software on your computer:
 
 - Mozilla Firefox
 
