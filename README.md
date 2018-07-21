@@ -1,6 +1,8 @@
 # Amofi
 App MOde for FIrefox
 
+![Screenshot in LXQt desktop](docs/images/screenshot.jpg)
+
 [![Software License](https://img.shields.io/github/license/vitorteccom/amofi.svg)](LICENSE.md)
 
 This script starts a new custom and uncharacteristic instance for the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) browser. This script is not official.
@@ -28,10 +30,6 @@ chmod +x ./src/amofi.sh
 ``` bash
 ./src/amofi.sh https://platform-status.mozilla.org/
 ```
-
-Screenshot in [LXQt](https://lxqt.org/) desktop.
-
-[![Screenshot](docs/images/screenshot.jpg)](#)
 
 ## Contributing
 
