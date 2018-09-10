@@ -4,7 +4,7 @@ Contributions are **welcome** and will be fully **credited**.
 
 ## Pull Requests
 
-- **[ShellCheck](https://github.com/koalaman/shellcheck)** - Check the code style with ``shellcheck src/bamolin.sh``.
+- **[ShellCheck](https://github.com/koalaman/shellcheck)** - Check the code style with ``shellcheck src/amofi.sh``.
 
 - **Add comments!** - Your patch won't be accepted if it doesn't have comments.
 
