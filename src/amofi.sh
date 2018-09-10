@@ -29,7 +29,7 @@
 #
 # Check URI
 #
-if [ -z $1 ]
+if [ -z "$1" ]
 then
     echo 'URI not found ...'
     exit
@@ -38,18 +38,18 @@ fi
 #
 # Check if the directory exists
 #
-if [ -d '/tmp/amofi/' ];
+if [ -d "/tmp/amofi/" ];
 then
     #
     # Execute custom configuration
     #
-    firefox -profile /tmp/amofi/ -no-remote -new-instance $1
+    firefox -profile /tmp/amofi/ -no-remote -new-instance "$1"
 fi
 
 #
 # Check if the directory does not exist
 #
-if [ ! -d '/tmp/amofi/' ];
+if [ ! -d "/tmp/amofi/" ];
 then
     #
     # Create directories
@@ -73,6 +73,6 @@ then
     #
     # Execute custom configuration
     #
-    firefox -profile /tmp/amofi/ -no-remote -new-instance $1 \
+    firefox -profile /tmp/amofi/ -no-remote -new-instance "$1" \
     -width 800 -height 600
 fi
