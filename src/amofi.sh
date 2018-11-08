@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
 #
 # Amofi - App mode for Firefox
 # Copyright (C) 2017-2018  Vitortec.com

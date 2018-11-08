@@ -4,6 +4,12 @@ All notable changes will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
+## [2.0.2] - 2018-11-08
+
+### Changed
+
+- #!/bin/bash to #!/usr/bin/env bash
+
 ## [2.0.1] - 2018-09-10
 
 ### Added
