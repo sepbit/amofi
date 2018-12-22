@@ -4,6 +4,11 @@ All notable changes will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
+## [2.0.3] - 2018-12-22
+
+### Changed
+- Appropriate legal notices
+
 ## [2.0.2] - 2018-11-08
 
 ### Changed

@@ -21,7 +21,6 @@
 # @author    Vitor Guia <vitor.guia@vitortec.com>
 # @copyright 2017-2018 Vitortec.com
 # @license   http://www.gnu.org/licenses GPL-3.0-or-later
-# @version   2.0.0
 # @see       https://github.com/vitorteccom/amofi Repository of Amofi
 #
 
