@@ -3,7 +3,7 @@ App MOde for FIrefox
 
 ![Screenshot in LXQt desktop](docs/images/screenshot.jpg)
 
-[![Software License](https://img.shields.io/github/license/vitorteccom/amofi.svg)](LICENSE.md)
+[![Software License](https://img.shields.io/github/license/vitorteccom/amofi.svg)](COPYING)
 
 This script starts a new custom and uncharacteristic instance for the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) browser. This script is not official.
 
