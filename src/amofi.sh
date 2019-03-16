@@ -35,11 +35,11 @@ fi
 #
 # Check if the directory does not exist
 #
-if [ ! -d "/tmp/amofi/" ]; then
+if [ ! -d "/tmp/vitorteccom/amofi/" ]; then
     #
     # Create directories
     #
-    mkdir -p /tmp/amofi/chrome
+    mkdir -p /tmp/vitorteccom/amofi/chrome
 fi
 
 #
