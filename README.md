@@ -6,6 +6,8 @@
 
 This script starts a new custom and uncharacteristic instance for the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) browser. This script is not official.
 
+This package is compatible with [ShellCheck](https://github.com/koalaman/shellcheck).
+
 ## Install
 
 To install you need to have the following pieces of software on your computer:
