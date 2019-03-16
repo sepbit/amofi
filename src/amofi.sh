@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # Amofi - App mode for Firefox
-# Copyright (C) 2017-2018  Vitortec.com
+# Copyright (C) 2017-2019  Vitortec.com
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -19,7 +19,7 @@
 # GNU bash version 4.4
 #
 # @author    Vitor Guia <vitor.guia@vitortec.com>
-# @copyright 2017-2018 Vitortec.com
+# @copyright 2017-2019 Vitortec.com
 # @license   http://www.gnu.org/licenses GPL-3.0-or-later
 # @see       https://github.com/vitorteccom/amofi Repository of Amofi
 #
@@ -27,50 +27,37 @@
 #
 # Check URI
 #
-if [ -z "$1" ]
-then
+if [ -z "$1" ]; then
     echo 'URI not found ...'
     exit
 fi
 
 #
-# Check if the directory exists
-#
-if [ -d "/tmp/amofi/" ];
-then
-    #
-    # Execute custom configuration
-    #
-    firefox -profile /tmp/amofi/ -no-remote -new-instance "$1"
-fi
-
-#
 # Check if the directory does not exist
 #
-if [ ! -d "/tmp/amofi/" ];
-then
+if [ ! -d "/tmp/amofi/" ]; then
     #
     # Create directories
     #
     mkdir -p /tmp/amofi/chrome
-
-    #
-    # Custom configuration
-    #
-    echo \
-    "#nav-bar {
-        visibility: hidden !important;
-        max-height: 0 !important;
-        margin-bottom: -20px !important;
-    }
-    #TabsToolbar {
-        display: none !important;
-    }" \
-    >> /tmp/amofi/chrome/userChrome.css
-
-    #
-    # Execute custom configuration
-    #
-    firefox -profile /tmp/amofi/ -no-remote -new-instance "$1" \
-    -width 800 -height 600
 fi
+
+#
+# Custom configuration
+#
+echo \
+"#nav-bar {
+    visibility: hidden !important;
+    max-height: 0 !important;
+    margin-bottom: -20px !important;
+}
+#TabsToolbar {
+    display: none !important;
+}" \
+>> /tmp/vitorteccom/amofi/chrome/userChrome.css
+
+#
+# Execute custom configuration
+#
+firefox -profile /tmp/vitorteccom/amofi/ -no-remote -new-instance "$1" \
+-width 800 -height 600
