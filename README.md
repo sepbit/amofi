@@ -1,6 +1,5 @@
 # Amofi
 
-![Screenshot in LXQt desktop](docs/images/screenshot.jpg)
 [![Software License](https://img.shields.io/github/license/vitorteccom/amofi.svg)](COPYING)
 
 > App MOde for FIrefox
@@ -27,6 +26,8 @@ Assign execute permission to file ``src/amofi.sh``
 $ chmod +x ./src/amofi.sh
 $ ./src/amofi.sh https://platform-status.mozilla.org
 ```
+
+![Screenshot in LXQt desktop](docs/images/screenshot.jpg)
 
 ## Contributing
 
