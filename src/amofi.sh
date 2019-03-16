@@ -25,25 +25,38 @@
 #
 
 #
-# Check URI
+# Directory custom profile
+#
+DIR="/tmp/vitorteccom/amofi"
+
+#
+# Check if Mozilla Firefox is installed
+#
+if [ ! "$(command -v firefox)" ]; then
+    echo "firefox command not found"
+    exit
+fi
+
+#
+# Check if the URI was entered
 #
 if [ -z "$1" ]; then
-    echo 'URI not found ...'
+    echo 'URI is missing ...'
     exit
 fi
 
 #
 # Check if the directory does not exist
 #
-if [ ! -d "/tmp/vitorteccom/amofi/" ]; then
+if [ ! -d "$DIR" ]; then
     #
-    # Create directories
+    # Create directory
     #
-    mkdir -p /tmp/vitorteccom/amofi/chrome
+    mkdir -p "$DIR"/chrome
 fi
 
 #
-# Custom configuration
+# Custom profile
 #
 echo \
 "#nav-bar {
@@ -54,10 +67,10 @@ echo \
 #TabsToolbar {
     display: none !important;
 }" \
->> /tmp/vitorteccom/amofi/chrome/userChrome.css
+>> "$DIR"/chrome/userChrome.css
 
 #
-# Execute custom configuration
+# Execute custom profile
 #
-firefox -profile /tmp/vitorteccom/amofi/ -no-remote -new-instance "$1" \
--width 800 -height 600
+firefox -profile "$DIR" -no-remote -new-instance "$1" \
+        -width 800 -height 600

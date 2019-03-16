@@ -29,7 +29,7 @@ $ chmod +x ./src/amofi.sh
 $ ./src/amofi.sh https://platform-status.mozilla.org
 ```
 
-![Screenshot in LXQt desktop](docs/images/screenshot.jpg)
+![Screenshot](doc/screenshot.png)
 
 ## Contributing
 
