@@ -60,9 +60,7 @@ fi
 #
 echo \
 "#nav-bar {
-    visibility: hidden !important;
-    max-height: 0 !important;
-    margin-bottom: -20px !important;
+    display: none !important;
 }
 #TabsToolbar {
     display: none !important;

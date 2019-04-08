@@ -2,6 +2,10 @@
 
 See [Keep a Changelog](http://keepachangelog.com/).
 
+## [2.0.5] 2019-04-08
+### Fix
+- SSL logo
+
 ## [2.0.4] 2019-03-16
 ### Changed
 - Information for contribution
