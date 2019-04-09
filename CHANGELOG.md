@@ -2,6 +2,13 @@
 
 See [Keep a Changelog](http://keepachangelog.com/).
 
+## [2.1.0] 2019-04-09
+### Changed
+- #!/usr/bin/env bash to #!/usr/bin/env sh
+
+### Fix
+- Tabs warning
+
 ## [2.0.5] 2019-04-08
 ### Fix
 - SSL logo
