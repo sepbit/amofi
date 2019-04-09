@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 #
 # Amofi - App mode for Firefox
 # Copyright (C) 2017-2019  Vitortec.com
@@ -16,7 +16,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #
-# dash version 0.5
+# GNU bash version 4.4
 #
 # @author    Vitor Guia <vitor.guia@vitortec.com>
 # @copyright 2017-2019 Vitortec.com
@@ -66,10 +66,6 @@ echo \
     display: none !important;
 }" \
 >> "$DIR"/chrome/userChrome.css
-
-echo \
-"user_pref(\"browser.tabs.warnOnClose\", false);" \
->> "$DIR"/user.js
 
 #
 # Execute custom profile
