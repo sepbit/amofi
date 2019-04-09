@@ -67,6 +67,10 @@ echo \
 }" \
 >> "$DIR"/chrome/userChrome.css
 
+echo \
+"user_pref(\"browser.tabs.warnOnClose\", false);" \
+>> "$DIR"/user.js
+
 #
 # Execute custom profile
 #
