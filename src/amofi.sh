@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 #
 # Amofi - App mode for Firefox
-# Copyright (C) 2017-2019  Vitortec.com
+# Copyright (C) 2017-2019  SEPBIT
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -18,10 +18,10 @@
 #
 # dash version 0.5
 #
-# @author    Vitor Guia <vitor.guia@vitortec.com>
-# @copyright 2017-2019 Vitortec.com
+# @author    Vitor Guia <contato@vitor.guia.nom.br>
+# @copyright 2017-2019 SEPBIT
 # @license   http://www.gnu.org/licenses GPL-3.0-or-later
-# @see       https://github.com/vitorteccom/amofi Repository of Amofi
+# @see       https://notabug.org/sepbit/amofi Repository of Amofi
 #
 
 #

@@ -2,6 +2,10 @@
 
 See [Keep a Changelog](http://keepachangelog.com/).
 
+## [2.1.1] 2019-05-24
+### Changed
+- Change from GitHub to NotABug
+
 ## [2.1.0] 2019-04-09
 ### Changed
 - #!/usr/bin/env bash to #!/usr/bin/env sh

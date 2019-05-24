@@ -1,12 +1,10 @@
 # Amofi
 
-[![Software License](https://img.shields.io/github/license/vitorteccom/amofi.svg)](COPYING)
-
 > App MOde for FIrefox
 
 This script starts a new custom and uncharacteristic instance for the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) browser. This script is not official.
 
-This package is compatible with [ShellCheck](https://github.com/koalaman/shellcheck).
+This package is compatible with [ShellCheck](https://www.shellcheck.net).
 
 ## Install
 
@@ -33,12 +31,7 @@ $ ./src/amofi.sh https://platform-status.mozilla.org
 
 ## Contributing
 
-Pull Requests not accepted, please contact us at: `contato@vitortec.com`.
-
-### Contributors
-
-- [Vitor Guia](https://github.com/vitoranguia)
-- [All Contributors](https://github.com/vitorteccom/amofi/contributors)
+Pull Requests not accepted.
 
 ## License
 
