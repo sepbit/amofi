@@ -27,7 +27,7 @@ $ chmod +x ./src/amofi.sh
 $ ./src/amofi.sh https://platform-status.mozilla.org
 ```
 
-![Screenshot](screenshot.png)
+![Screenshot](doc/image/screenshot.png)
 
 ## Contributing
 

@@ -2,6 +2,10 @@
 
 See [Keep a Changelog](http://keepachangelog.com/).
 
+## [2.1.2] 2019-05-25
+### Changed
+- Move screenshot to doc/image directory
+
 ## [2.1.1] 2019-05-24
 ### Changed
 - Change from GitHub to NotABug
