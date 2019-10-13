@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 #
 # Amofi - App mode for Firefox
-# Copyright (C) 2017-2019  SEPBIT
+# Copyright (C) 2017-2019  Sepbit
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -19,15 +19,15 @@
 # dash version 0.5
 #
 # @author    Vitor Guia <contato@vitor.guia.nom.br>
-# @copyright 2017-2019 SEPBIT
+# @copyright 2017-2019 Sepbit
 # @license   http://www.gnu.org/licenses GPL-3.0-or-later
-# @see       https://notabug.org/sepbit/amofi Repository of Amofi
+# @see       https://gitlab.com/sepbit/amofi Repository of Amofi
 #
 
 #
 # Directory custom profile
 #
-DIR="/tmp/vitorteccom/amofi"
+DIR="/tmp/sepbit/amofi"
 
 #
 # Check if Mozilla Firefox is installed

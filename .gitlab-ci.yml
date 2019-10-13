@@ -1,0 +1,5 @@
+image: koalaman/shellcheck-alpine
+
+test:
+  script:
+    - shellcheck src/*.sh

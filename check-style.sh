@@ -11,4 +11,4 @@ fi
 #
 # Execute ShellCheck
 #
-shellcheck src/*
+shellcheck src/*.sh
