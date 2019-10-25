@@ -16,13 +16,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #
-# dash version 0.5
-#
-# @author    Vitor Guia <contato@vitor.guia.nom.br>
-# @copyright 2017-2019 Sepbit
-# @license   http://www.gnu.org/licenses GPL-3.0-or-later
-# @see       https://gitlab.com/sepbit/amofi Repository of Amofi
-#
 
 #
 # Directory custom profile
