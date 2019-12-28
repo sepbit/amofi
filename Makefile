@@ -15,11 +15,3 @@ uninstall:
 	rm -f /usr/bin/amofi
 	@echo Uninstall completed!
 
-.PHONY: check-style
-=======
-all: check-style
-
->>>>>>> 42ff3c928d7eec0ea85f32c7efebb574b89cc8dd
-check-style:
-	shellcheck src/*.sh
-	@echo Check style completed!
